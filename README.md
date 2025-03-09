@@ -6,7 +6,7 @@ This Python project calculates prime numbers in large numerical ranges using the
 
 ```
 Starting prime number calculation...
-Total prime numbers found: 7566
+Total prime numbers found: 283146
 Duration: 5.34 seconds
 ```
 
